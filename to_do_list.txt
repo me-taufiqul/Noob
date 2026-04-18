@@ -1,3 +1,7 @@
 1. Lecture
 2. Python
 3. Jupiter Notebook
+
+- Learn Git basics
+- Complete assignment
+- Practice control systems
