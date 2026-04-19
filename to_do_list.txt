@@ -1,7 +1,10 @@
-1. Lecture
-2. Python
-3. Jupiter Notebook
-
 - Learn Git basics
 - Complete assignment
 - Practice control systems
+
+#Want to create a project based one daily productivity list.
+
+Task 01: Input only the time frame, duration, date and Task
+Task 02: Data input on ask basis
+Task 03: Sort and formatted into Weekly base calendar
+Task 04: Output is, input the week no, and show the entire weekly task.
